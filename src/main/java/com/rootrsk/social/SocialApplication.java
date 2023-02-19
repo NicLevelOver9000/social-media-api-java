@@ -9,6 +9,7 @@ public class SocialApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SocialApplication.class, args);
 		System.out.println("Hello From Angsu");
+		System.out.println("Hello From Rootrsk");
 	}
 
 }
